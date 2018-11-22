@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Grouping1112
+//  CollectionView1122
 //
-//  Created by 503-12 on 12/11/2018.
+//  Created by 503-12 on 22/11/2018.
 //  Copyright © 2018 The. All rights reserved.
 //
 
